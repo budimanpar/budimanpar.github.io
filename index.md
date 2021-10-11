@@ -1,4 +1,4 @@
-#### Budiman PAR
+## Budiman PAR
 _Signal Processing, Machine Learning and Embedded Systems_
 
 Budiman PAR received S.T. (B.Eng) degree in Engineering Physics from Sepuluh Nopember Institute of Technology, Indonesia (2009). He got M.Eng (2018)  and Ph.D. (2021) degrees from Kumamoto University, Japan majoring in radar signal processing and imaging. 
